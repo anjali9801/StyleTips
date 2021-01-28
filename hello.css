@@ -1,0 +1,39 @@
+#bold{
+    margin-top: 40px;
+    color: red;
+    font-style: italic;
+}
+p{
+    color: black;
+    font-size: 30px;
+    font-weight: 630;
+    border 2px solid black;
+    padding: 55px;
+}
+#c{
+    font-weight: 500;
+    font-size: 60px;
+}
+#cd{
+    font-weight: 390;
+    font-size: 40px;
+}
+#l{
+    margin-top: 60px;
+    margin-left: 130px;
+    font-weight: 390;
+    font-size: 100px;
+
+}
+li,ul{
+    background-color: rgb(255, 0, 128);
+}
+h1{
+    color: white;
+    background-color: ;
+}
+.dropdown-menu{
+    color: #000;
+    background-color: transparent;
+    font-weight: bold;
+}
